@@ -1,4 +1,4 @@
-# stackbit-api
+# Stackbit-api
 
 Backend API server for the frontend app stackbit-app
 
