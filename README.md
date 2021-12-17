@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c54b112e-a7db-4d59-ad0b-29ffba00ddb9/deploy-status)](https://app.netlify.com/sites/alekshura-dev-blog-f2fed/deploys)
+
 # Stackbit-api
 
 Backend API server for the frontend app stackbit-app
